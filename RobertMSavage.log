@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.19)  19 FEB 2015 18:49
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.19)  19 FEB 2015 21:10
 entering extended mode
 **RobertMSavage.tex
 (C:\Users\Robert\Documents\GitHub\About-Me\RobertMSavage.tex
@@ -346,7 +346,7 @@ Here is how much of TeX's memory you used:
  8779 multiletter control sequences out of 15000+200000
  43223 words of font info for 37 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 29i,8n,33p,834b,468s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,8n,33p,748b,468s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Program File
 s/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}<C:/Program Files/MiKTeX 
 2.9/fonts/type1/public/garamondx/NewG8-Bol.pfb><C:/Program Files/MiKTeX 2.9/fon
@@ -354,7 +354,7 @@ ts/type1/public/garamondx/NewG8-BolIta.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/garamondx/NewG8-Ita.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
 blic/garamondx/NewG8-Reg.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm
 -super/sftt1000.pfb>
-Output written on RobertMSavage.pdf (2 pages, 155371 bytes).
+Output written on RobertMSavage.pdf (2 pages, 156056 bytes).
 PDF statistics:
  38 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
